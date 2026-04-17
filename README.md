@@ -17,7 +17,7 @@ From that moment on, I began studying programming and have been building my jour
 - Core: Python, FastAPI, Microservices, APIs Rest.
 - Backend: Alembic, SQLAlchemy, Pydantic, Pytest, Pytest-cov.
 - Frontend: Typescript, Vue, Angular, Next.
-- Data: PostgreSQL, Mariadb, Prometheus, Loki, ChormaDB.
+- Data: PostgreSQL, Mariadb, Prometheus, Loki, ChormaDB, ClickHouse.
 - MQ: RabbitMQ, Redis, MosquittoMQTT.
 - Architetures: DDD, CA, MVC, Hexagonal.
 - IA: LLM Orchestration, MCP, FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO.
