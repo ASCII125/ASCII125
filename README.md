@@ -16,6 +16,7 @@ From that moment on, I began studying programming and have been building my jour
 ## Tecnical skills
 - Core: Python, FastAPI, Microservices, APIs Rest.
 - Backend: Flask, Django, Celery, Alembic.
+- Frontend: Typescript, Vue, Angular, Next.
 - Infra: Linux, Docker, Proxmox, Jenkins, Grafana.
 - Data: PostgreSQL, Mariadb, Prometheus, Loki.
 - MQ: RabbitMQ, Redis, MosquittoMQTT.
