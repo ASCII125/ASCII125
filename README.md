@@ -90,7 +90,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FFD700"></td><td>███░░</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=FFD700"></td><td>████░</td></tr>
-<tr><td><img src="https://img.shields.io/badge/MQTT-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/MQTT-000000?style=flat&logo=mqtt&logoColor=FFD700"></td><td>████░</td></tr>
 </table>
 
 </td>
