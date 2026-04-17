@@ -22,7 +22,8 @@ From that moment on, I began studying programming and have been building my jour
 - Architetures: DDD, CA, MVC, Hexagonal.
 - IA: LLM Orchestration, MCP, FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO.
 - Payments: Cielo, EFI, PayGo, Stripe.
-- Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker
+- Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker.
+- Versioning: Git, Github, Gitlab.
 
 ---
 
