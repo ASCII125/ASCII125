@@ -44,6 +44,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD700"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Vue-000000?style=flat&logo=vue.js&logoColor=FFD700"></td><td>████░</td></tr>
 </table>
 
 </td>
@@ -54,6 +55,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=FFD700"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Alembic-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Pydantic-000000?style=flat"></td><td>█████</td></tr>
 </table>
 
 </td>
@@ -64,6 +66,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=FFD700"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Vue-000000?style=flat&logo=vue.js&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=FFD700"></td><td>███░░</td></tr>
 </table>
 
 </td>
@@ -74,16 +77,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=FFD700"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=FFD700"></td><td>████░</td></tr>
-</table>
-
-</td>
-
-<td valign="top">
-
-### DevOps
-<table>
-<tr><td><img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=FFD700"></td><td>█████</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/ClickHouse-000000?style=flat&logo=clickhouse&logoColor=FFD700"></td><td>███░░</td></tr>
 </table>
 
 </td>
@@ -96,6 +90,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FFD700"></td><td>████░</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/MQTT-000000?style=flat"></td><td>███░░</td></tr>
 </table>
 
 </td>
@@ -106,6 +101,7 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/DDD-000000?style=flat"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Hexagonal-000000?style=flat"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat"></td><td>█████</td></tr>
 </table>
 
 </td>
@@ -115,7 +111,8 @@
 ### AI / LLM
 <table>
 <tr><td><img src="https://img.shields.io/badge/LangChain-000000?style=flat"></td><td>████░</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Ollama-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/FastMCP-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/YOLO-000000?style=flat"></td><td>████░</td></tr>
 </table>
 
 </td>
@@ -124,8 +121,22 @@
 
 ### Payments
 <table>
-<tr><td><img src="https://img.shields.io/badge/Stripe-000000?style=flat&logo=stripe&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/EFI-000000?style=flat"></td><td>████░</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Cielo-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/PayGo-000000?style=flat"></td><td>███░░</td></tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### DevOps
+<table>
+<tr><td><img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Git%20Workflows-000000?style=flat"></td><td>████░</td></tr>
 </table>
 
 </td>
@@ -136,6 +147,29 @@
 <table>
 <tr><td><img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=FFD700"></td><td>█████</td></tr>
 <tr><td><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/GitLab-000000?style=flat&logo=gitlab&logoColor=FFD700"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Observability
+<table>
+<tr><td><img src="https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Loki-000000?style=flat"></td><td>███░░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Grafana-000000?style=flat&logo=grafana&logoColor=FFD700"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Testing
+<table>
+<tr><td><img src="https://img.shields.io/badge/Pytest-000000?style=flat&logo=pytest&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Pytest--cov-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Pytest--asyncio-000000?style=flat"></td><td>████░</td></tr>
 </table>
 
 </td>
