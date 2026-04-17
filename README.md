@@ -34,17 +34,113 @@
 
 - My focus is on designing scalable, resilient, and observable architectures, always aiming to solve complex problems in a practical and efficient way.
 
-## Tecnical skills
-- Core: Python, FastAPI, Microservices, APIs Rest.
-- Backend: Alembic, SQLAlchemy, Pydantic, Pytest, Pytest-cov.
-- Frontend: Typescript, Vue, Angular, Next.
-- Data: PostgreSQL, Mariadb, Prometheus, Loki, ChormaDB, ClickHouse.
-- MQ: RabbitMQ, Redis, MosquittoMQTT.
-- Architetures: DDD, CA, MVC, Hexagonal.
-- IA: LLM Orchestration, MCP, FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO.
-- Payments: Cielo, EFI, PayGo, Stripe.
-- Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker.
-- Versioning: Git, Github, Gitlab.
+## Technical Skills
+
+<table>
+<tr>
+<td valign="top">
+
+### Core
+<table>
+<tr><td><img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=FFD700"></td><td>█████</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Backend
+<table>
+<tr><td><img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Alembic-000000?style=flat"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Frontend
+<table>
+<tr><td><img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Vue-000000?style=flat&logo=vue.js&logoColor=FFD700"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Data
+<table>
+<tr><td><img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=FFD700"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### DevOps
+<table>
+<tr><td><img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=FFD700"></td><td>████░</td></tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Messaging
+<table>
+<tr><td><img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=rabbitmq&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=FFD700"></td><td>█████</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Architecture
+<table>
+<tr><td><img src="https://img.shields.io/badge/DDD-000000?style=flat"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Hexagonal-000000?style=flat"></td><td>█████</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### AI / LLM
+<table>
+<tr><td><img src="https://img.shields.io/badge/LangChain-000000?style=flat"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Ollama-000000?style=flat"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Payments
+<table>
+<tr><td><img src="https://img.shields.io/badge/Stripe-000000?style=flat&logo=stripe&logoColor=FFD700"></td><td>████░</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Cielo-000000?style=flat"></td><td>████░</td></tr>
+</table>
+
+</td>
+
+<td valign="top">
+
+### Versioning
+<table>
+<tr><td><img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=FFD700"></td><td>█████</td></tr>
+<tr><td><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FFD700"></td><td>█████</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ## Showcase
 
