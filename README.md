@@ -15,13 +15,14 @@ From that moment on, I began studying programming and have been building my jour
 
 ## Tecnical skills
 - Core: Python, FastAPI, Microservices, APIs Rest.
-- Backend: Flask, Django, Celery, Alembic.
+- Backend: Alembic, SQLAlchemy, Pydantic, Pytest, Pytest-cov.
 - Frontend: Typescript, Vue, Angular, Next.
 - Infra: Linux, Docker, Proxmox, Jenkins, Grafana.
 - Data: PostgreSQL, Mariadb, Prometheus, Loki.
 - MQ: RabbitMQ, Redis, MosquittoMQTT.
 - Architetures: DDD, CA, MVC, Hexagonal
 - IA: LLM Orchestration, MCP (Model Context Protocol), FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO (Ultralystics).
+- Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker
 
 ---
 
