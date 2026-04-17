@@ -19,8 +19,9 @@ From that moment on, I began studying programming and have been building my jour
 - Frontend: Typescript, Vue, Angular, Next.
 - Data: PostgreSQL, Mariadb, Prometheus, Loki.
 - MQ: RabbitMQ, Redis, MosquittoMQTT.
-- Architetures: DDD, CA, MVC, Hexagonal
-- IA: LLM Orchestration, MCP (Model Context Protocol), FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO.
+- Architetures: DDD, CA, MVC, Hexagonal.
+- IA: LLM Orchestration, MCP, FastMCP, LangChain, Ollama, Groq, Gemini, Claude, OpenvCV, YOLO.
+- Payments: Cielo, EFI, PayGo, Stripe.
 - Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker
 
 ---
