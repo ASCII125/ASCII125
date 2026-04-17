@@ -2,27 +2,27 @@
 
 🇧🇷 **pt-br**
 
-Atuo há mais de 3 anos como Backend Engineer, com foco no desenvolvimento de sistemas distribuídos, microserviços e APIs de alta performance utilizando Python e FastAPI.
+- Atuo há mais de 3 anos como Fullstack Developer, com foco no desenvolvimento de sistemas distribuídos, microserviços e APIs de alta performance utilizando Python, FastAPI, TypeScript e VueJS.
 
-Tenho experiência prática na construção de sistemas críticos com alto volume de transações, incluindo integrações com múltiplos gateways de pagamento, otimização de performance e estratégias de cache.
+- Tenho experiência prática na construção de sistemas críticos com alto volume de transações, incluindo integrações com múltiplos gateways de pagamento, otimização de performance e estratégias de cache.
 
-Também trabalho com sistemas inteligentes, envolvendo orquestração de LLMs, criação de agentes baseados em MCP (Model Context Protocol) e aplicações que combinam visão computacional com IA para análise e enriquecimento de dados.
+- Também trabalho com sistemas inteligentes, envolvendo orquestração de LLMs, criação de agentes baseados em MCP (Model Context Protocol) e aplicações que combinam visão computacional com IA para análise e enriquecimento de dados.
 
-Ao longo da minha trajetória, participei da construção de soluções que geraram impacto direto no negócio, incluindo aumento significativo de vendas e ganho de eficiência operacional.
+- Ao longo da minha trajetória, participei da construção de soluções que geraram impacto direto no negócio, incluindo aumento significativo de vendas e ganho de eficiência operacional.
 
-Tenho como foco projetar arquiteturas escaláveis, resilientes e bem observáveis, sempre buscando resolver problemas complexos de forma prática e eficiente.
+- Tenho como foco projetar arquiteturas escaláveis, resilientes e bem observáveis, sempre buscando resolver problemas complexos de forma prática e eficiente.
 
 🇺🇸 **en**
 
-I have over 3 years of experience as a Backend Engineer, focusing on building distributed systems, microservices, and high-performance APIs using Python and FastAPI.
+- I have over 3 years of experience as a Fullstack Developer, focusing on building distributed systems, microservices, and high-performance APIs using Python, FastAPI, TypeScript e VueJS.
 
-I have hands-on experience developing critical systems with high transaction volumes, including integrations with multiple payment gateways, performance optimization, and caching strategies.
+- I have hands-on experience developing critical systems with high transaction volumes, including integrations with multiple payment gateways, performance optimization, and caching strategies.
 
-I also work with intelligent systems, including LLM orchestration, MCP-based agents, and applications that combine computer vision with AI for data analysis and enrichment.
+- I also work with intelligent systems, including LLM orchestration, MCP-based agents, and applications that combine computer vision with AI for data analysis and enrichment.
 
-Throughout my career, I have contributed to solutions that generated direct business impact, including significant increases in revenue and operational efficiency.
+- Throughout my career, I have contributed to solutions that generated direct business impact, including significant increases in revenue and operational efficiency.
 
-My focus is on designing scalable, resilient, and observable architectures, always aiming to solve complex problems in a practical and efficient way.
+- My focus is on designing scalable, resilient, and observable architectures, always aiming to solve complex problems in a practical and efficient way.
 
 ## Tecnical skills
 - Core: Python, FastAPI, Microservices, APIs Rest.
@@ -43,6 +43,7 @@ My focus is on designing scalable, resilient, and observable architectures, alwa
     <tr>
       <th>
         <br>
+        <br>
         <div align="center">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASCII125&theme=dark">
         </div>
@@ -51,6 +52,7 @@ My focus is on designing scalable, resilient, and observable architectures, alwa
     </tr>
     <tr>
       <td>
+        <br>
         <a href="https://github.com/ASCII125/aiyer-object-viewer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASCII125&repo=aiyer-object-viewer&theme=dark">
         </a>
@@ -64,10 +66,12 @@ My focus is on designing scalable, resilient, and observable architectures, alwa
         <p>
           Ferramenta de análise e interpretação de imagens integrada a LLMs, projetada para processar, classificar e extrair informações de dados visuais. Seu objetivo é padronizar saídas, gerando respostas estruturadas e consistentes para fácil integração com outros sistemas.
         </p>
+        <br>
       </td>
     </tr>
     <tr>
       <td>
+        <br>
         <a href="https://github.com/ASCII125/mydoc-file-analytics">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASCII125&repo=mydoc-file-analytics&theme=dark">
         </a>
@@ -84,6 +88,28 @@ My focus is on designing scalable, resilient, and observable architectures, alwa
         <p>
           Projeto fullstack para análise de documentos (PDF/DOCX) com uso de LLMs, incluindo agentes inteligentes, busca vetorial com ChromaDB e cache em memória com Redis, focado em processamento eficiente e arquitetura escalável.
         </p>
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <br>
+        <a href="https://github.com/ASCII125/api-fishing-dock">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASCII125&repo=api-fishing-dock&theme=dark">
+        </a>
+        <p>
+          <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD700">
+          <img src="https://img.shields.io/badge/FastAPI-000000?style=flat">
+          <img src="https://img.shields.io/badge/SQLModel-000000?style=flat">
+          <img src="https://img.shields.io/badge/Alembic-000000?style=flat">
+          <img src="https://img.shields.io/badge/DDD-000000?style=flat">
+          <img src="https://img.shields.io/badge/Hexagonal-000000?style=flat">
+          <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=flat">
+        </p>
+        <p>
+          API backend estruturada com foco em boas práticas de arquitetura, utilizando DDD, arquitetura hexagonal e Clean Architecture. Projeto voltado para organização de domínio, separação de responsabilidades e escalabilidade de sistemas backend.
+        </p>
+        <br>
       </td>
     </tr>
   </table>
