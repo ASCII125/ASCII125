@@ -25,6 +25,46 @@ From that moment on, I began studying programming and have been building my jour
 - Devops: Jenkins, Grafana, Git Workflows, Proxmox, Docker.
 - Versioning: Git, Github, Gitlab.
 
+## GitHub
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASCII125&theme=dark)
+
+<div align="center">
+  <table>
+    <tr>
+      <th>
+        <a href="https://github.com/ASCII125/aiyer-object-viewer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASCII125&repo=aiyer-object-viewer&theme=dark">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/ASCII125/mydoc-file-analytics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASCII125&repo=mydoc-file-analytics&theme=dark">
+        </a>
+      </th>
+    </tr>
+  </table>
+</div>
+
+</div>
+
 ---
 
-[Linkedin](https://www.linkedin.com/in/emerson-silva-361048266) | [Email](mailto:r4n.oficial@gmail.com)
+<div align="center">
+  <table>
+    <tr>
+      <th>
+        <a href="https://www.linkedin.com/in/emerson-silva-361048266">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+      </th>
+      <th>
+        <a href="mailto:r4n.oficial@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+      </th>
+    </tr>
+  </table>
+</div>
