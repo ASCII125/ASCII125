@@ -1,4 +1,3 @@
-## About me
 <div>
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD700">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=FFD700">
@@ -9,7 +8,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=FFD700">
 </div>
 
----
+## About me
 
 🇧🇷 **pt-br**
 
